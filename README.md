@@ -57,10 +57,10 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-LJ-Luka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LJ-Luka&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-LJ-Luka&layout=compact&theme=vision-friendly-dark)](https://github.com/LJ-Luka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LJ-Luka&layout=compact&theme=vision-friendly-dark)](https://github.com/LJ-Luka/github-readme-stats)
 
 <!---
 LJ-Luka/LJ-Luka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -32,12 +32,12 @@
 
 ---
 - 👋 Hi, I am @LJ-Luka
-- 👀 I am an Aerospace Systems Engineer with specialisation in Stability and Controls.
+- 👀 I am a problem solver who provides solutions as an Aerospace Systems Engineer using vast knowledge and skills learned.
 - I have developed an interest in and ventured into Data Analytics.
 - 🌱 I have completed a few data analytics/analysis certifications from Google and IBM 
-- 💞️ I am looking forward to collaborating on aerospace research and data analysis projects. 
+- 💞️ I am looking forward to collaborating on aerospace research and data analysis projects. Reach out! 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](lumi.luka1@gmail.com; https://www.linkedin.com/in/lumi-luka-9b54b25a/)
-- https://www.credly.com/badges/b3df410b-845b-441e-8e62-d1ce0ca93480/public_url
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

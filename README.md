@@ -36,7 +36,7 @@
 - I have developed an interest in and ventured into Data Analytics.
 - 🌱 I have completed a few data analytics/analysis certifications from Google and IBM 
 - 💞️ I am looking forward to collaborating on aerospace research and data analysis projects. Reach out! 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumi-luka-9b54b25a/), [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](lumi.luka1@gmail.com)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumi-luka-9b54b25a/), [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
 
 
 ---

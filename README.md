@@ -36,7 +36,7 @@
 - I am also a Data Analyst who can help make sense of your data through valuable insights. I have skills in data preparation, data cleaning/ transformation, data modelling, data analysis and data visualisation.
 - 🌱 I have certifications from Google (Data Analytics and BI Analyst)
 - 💞️ I am looking forward to collaborating on aerospace research and data analysis projects. Reach out! 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumi-luka-9b54b25a/); ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): lumi.luka1@gmail.com
+- 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumi-luka-9b54b25a/); Email: lumi.luka1@gmail.com
 
 
 ---

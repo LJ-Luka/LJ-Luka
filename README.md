@@ -31,11 +31,11 @@
 
 
 ---
-- 👋 Hi, I am Lumi
-- 👀 I am a problem solver who provides solutions as an Aerospace Systems Engineer using knowledge and skills learned. I apply my skills at the National Space Research and Development Agency, where I design and build systems and subsystems for aircrafts and spacecrafts.
-- I am also a Data Analyst who can help make sense of your data through valuable insights. I have skills in data preparation, data cleaning/ transformation, data modelling, data analysis and data visualisation.
-- 🌱 I have certifications from Google (Data Analytics and BI Analyst)
-- 💞️ I am looking forward to collaborating on aerospace research and data analysis projects. Reach out! 
+- 👋 Hi, I am Lumi!
+- With a background in Aerospace Engineering, I solve problems and provide solutions by designing and building systems and subsystems for aircrafts and spacecrafts. I have over five years of experience in the aerospace industry in design, research and development. I specialise in aerodynamics, flight mechanics, and stability and control.
+- I am also a Data Analyst who can help make sense of your data through valuable insights. I have skills in data preparation, data cleaning/ transformation, data modelling, data analysis and data visualisation. I gained these skills as an aerospace engineer and have taken relevant courses and completed projects to understand the concepts from a data analyst's perspective.
+- I have certifications from Google (Data Analytics and BI Analyst).
+- I am looking forward to collaborating on aerospace research and data analysis projects. 
 - 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lumi-luka-9b54b25a/); Email: lumi.luka1@gmail.com
 
 
